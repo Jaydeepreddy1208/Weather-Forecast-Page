@@ -1,0 +1,49 @@
+body {
+    font-family: Arial, sans-serif;
+    background-color: #f2f2f2;
+    margin: 0;
+    padding: 0;
+}
+
+.container {
+    max-width: 600px;
+    margin: 100px auto;
+    padding: 20px;
+    background-color: white;
+    border-radius: 10px;
+    box-shadow: 0 0 15px rgba(0, 0, 0, 0.1);
+    text-align: center;
+}
+
+h1 {
+    color: #333;
+}
+
+.location-select {
+    margin-bottom: 20px;
+}
+
+select {
+    padding: 5px;
+    font-size: 16px;
+}
+
+.weather-info {
+    background-color: #f9f9f9;
+    padding: 15px;
+    border-radius: 10px;
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+}
+
+.weather-info h2 {
+    color: #0073e6;
+    margin: 0;
+}
+
+p {
+    font-size: 18px;
+}
+
+strong {
+    color: #333;
+}
